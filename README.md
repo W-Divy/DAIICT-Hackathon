@@ -1,12 +1,12 @@
-Community Mangrove Watch 🌿🌊
+**__Community Mangrove Watch__** 🌿🌊
 
 Helping coastal communities protect the mangroves they rely on.
 
-*Why*
+**__Why?__**
 
 Mangroves protect coasts, support fisheries, and store carbon — but they’re disappearing fast. This project empowers communities to monitor and safeguard them.
 
-*Features*
+**__Features__**
 
 Easy reporting with photos & GPS
 
@@ -16,7 +16,7 @@ Gamified points & leaderboards
 
 Actionable dashboards
 
-*Who It’s For*
+**__Who It’s For__**
 
 Coastal communities & fishermen
 
@@ -24,7 +24,7 @@ NGOs & researchers
 
 Government agencies
 
-*Impact*
+**__Impact__**
 
 Gives communities a voice in conservation
 
@@ -32,7 +32,7 @@ Provides reliable real-time data
 
 Protects mangroves & biodiversity
 
-*Tech*
+**__Tech__**
 
 Mobile app reporting
 
