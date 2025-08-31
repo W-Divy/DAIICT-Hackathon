@@ -1,43 +1,16 @@
-**__Community Mangrove Watch__** 🌿🌊
 
-Helping coastal communities protect the mangroves they rely on.
+# Fine-tuned DistilBERT Model for Deforestation Reports
 
-**__Why?__**
+## Files Included:
+1. `nlp_model_deforestation.zip` - Contains the saved model and tokenizer
+2. `nlp_model_usage.py` - Example code for loading and using the model
+3. `requirements.txt` - Required Python packages
 
-Mangroves protect coasts, support fisheries, and store carbon — but they’re disappearing fast. This project empowers communities to monitor and safeguard them.
+## Quick Start:
+1. Unzip `nlp_model_deforestation.zip`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Use the model as shown in `nlp_model_usage.py`
 
-**__Features__**
-
-Easy reporting with photos & GPS
-
-AI-validated observations
-
-Gamified points & leaderboards
-
-Actionable dashboards
-
-**__Who It’s For__**
-
-Coastal communities & fishermen
-
-NGOs & researchers
-
-Government agencies
-
-**__Impact__**
-
-Gives communities a voice in conservation
-
-Provides reliable real-time data
-
-Protects mangroves & biodiversity
-
-**__Tech__**
-
-Mobile app reporting
-
-Satellite mapping & geotagging
-
-AI/ML for validation
-
-Cloud dashboards
+## Important:
+- Update the `class_names` list in the script with your actual class labels
+- The model expects the same text preprocessing as during training
